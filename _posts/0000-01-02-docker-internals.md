@@ -1,7 +1,8 @@
-# Docker Internals
+# Docker Container Security
 
 Note:
 
+At the heart of any discussion of container platform security we come down to the security of the container itself.  There has been a persistent meme on this front....
 
 --
 
