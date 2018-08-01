@@ -2,9 +2,13 @@
 
 --
 
+## "Standard Docker"
+
 <img src="/images/docker.png"/>
 
 --
+
+## gVisor
 
 <img src="/images/gvisor.png"/>
 
@@ -14,12 +18,22 @@ Lightweight, not a lot of resources, no need for "per app" configuration.  Users
 
 --
 
+## Kata Containers
+
 <img src="/images/kata-containers.png"/>
 
+Note:
+
+This project came out of a combination of 
+
 --
 
-<img src="/images/cri-o.png"/>
+## ContainerD
+
+<img src="/images/containerd.png"/>
 
 --
+
+## LXD
 
 <img src="/images/lxc-lxd.png"/>

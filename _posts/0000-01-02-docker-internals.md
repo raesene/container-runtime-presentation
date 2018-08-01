@@ -32,3 +32,7 @@ This is a phrase commonly seen when discussing container/Docker security, genera
 --
 
 # Seccomp-BPF
+
+--
+
+<img src="images/docker-layers.png"/>
