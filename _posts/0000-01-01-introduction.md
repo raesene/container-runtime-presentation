@@ -6,7 +6,7 @@
 # About Me
 
  - 18 Years in IT/Information Security
- - Managing Consultant at NCC Group PLC
+ - Principal Consultant at NCC Group PLC
  - Contributor at Security Stack Exchange
  - Contributing author to the CIS Docker and Kubernetes Standards
 
